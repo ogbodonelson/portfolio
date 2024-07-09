@@ -428,3 +428,26 @@
 .testimonial-carousel .owl-dot.active::after {
     background: var(--primary);
 }
+
+.cvimage{
+    height: 100%;
+    width: 100%;
+}
+
+.cvintro{
+    text-align: center;
+    margin: 20px 0px;
+}
+
+.cvprint{
+    margin: 20px 0px;
+    padding: 10px 20px;
+    background-color: rgb(25, 25, 159);
+    color: white;
+    border-radius: 10px;
+}
+
+.cvprint:hover{
+    background-color: rgb(30, 152, 168);
+    color: white;
+}
